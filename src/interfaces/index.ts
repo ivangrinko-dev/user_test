@@ -4,7 +4,7 @@ interface iUser {
     lastName: string;
     email: string;
     image: string;
-    pdf: Buffer
+    pdf: any
 }
 
 
